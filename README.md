@@ -329,3 +329,7 @@ RS比率=规则/样本数量比率
 
 ### Github地址
 Github -- [ddvv](https://github.com/a232319779/mmdt)
+
+### 压缩包解压码
+
+解压码：**mmdt**
