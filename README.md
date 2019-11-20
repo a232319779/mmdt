@@ -10,7 +10,7 @@ mmdt
 
 ## 1.2.0
 
-尝试应用：《基于mmdt的apt样本挖掘》,[查看连接](https://ddvvmmzz.github.io/%E5%9F%BA%E4%BA%8EMMDT%E7%9A%84APT%E6%A0%B7%E6%9C%AC%E6%8C%96%E6%8E%98)
+尝试应用：《基于mmdt的apt样本挖掘》,[查看APT-Hunter列表](https://ddvvmmzz.github.io/APT-Hunter)
 
 ## 1.1.0
 
